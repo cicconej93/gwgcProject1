@@ -1,0 +1,26 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+What new skills have you learned?
+
+Previously, I had some knowledge of HTML, but the new skills I learned through this course are:
+	*Figures
+	*The difference between relative, absolute, and local paths
+	*Better understanding of the HTML tree
+
+What has been easy?
+	
+I think the structure of the course so far has been easy to follow, as well as understanding the objectives for each lesson/quiz. The Udacity Feedback tool makes checking work quick and easy too.
+
+What has been difficult?
+
+I think at first, navigating through the MDN web docs could be a little overwhelming given all the options and topics. It's something you learn to get used to quickly though.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+Referencing the MDN web docs again, I was able to seek out information and 'research' my way through using unfamiliar HTML elements in order to recreate the mockup. Definitely	going to be a useful skill to have in future projects. 
